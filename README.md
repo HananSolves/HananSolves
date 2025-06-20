@@ -24,15 +24,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
 </p>
 
-
----
-
-### 📈 GitHub Stats
-![Hanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
-### 🧠 Currently Working On
-- A modern web app with Next.js + MongoDB  
-- Writing clean, reusable code  
-- Open source contributions
