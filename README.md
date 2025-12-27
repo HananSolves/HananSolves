@@ -3,7 +3,7 @@
 🚀 **Full Stack Developer**  
 I’m passionate about crafting scalable, user-focused web applications using modern technologies. With expertise in both frontend and backend development, I enjoy solving complex problems with clean, maintainable code. I’m also enthusiastic about exploring AI-driven solutions and contributing to open-source projects.
 
-<a href="https://github.com/HananSolves/HananSolves/raw/main/resume/Hanan%27s%20Resume.pdf" target="_blank">
+<a href="https://github.com/HananSolves/HananSolves/raw/main/Resume/Hanan%27s%20Resume.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View%20Resume-1E90FF?style=for-the-badge" alt="View Resume" />
 </a>
 
