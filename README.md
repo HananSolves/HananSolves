@@ -16,7 +16,9 @@
 
 Point-of-sale and business management for small shops. It runs on your own network with no internet needed, and covers sales, inventory, customers, suppliers, payroll and reports, with an encrypted database and optional cloud sync.
 
-**Electron · React · TypeScript · Fastify · SQLite** · [⬇ Download](https://github.com/HananSolves/rehnuma/releases/latest)
+**Electron · React · TypeScript · Fastify · SQLite**
+
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-2EA44F?style=for-the-badge)](https://github.com/HananSolves/rehnuma/releases/latest)
 
 ## 💻 More Projects
 
@@ -24,14 +26,21 @@ Point-of-sale and business management for small shops. It runs on your own netwo
 - **[TalentTap](https://github.com/HananSolves/TalentTap)**: MERN job platform for employers and job seekers, with JWT auth and proposal management.
 - **[AMS](https://github.com/HananSolves/AMS)**: ASP.NET Core attendance system with Admin, Teacher and Student dashboards and PDF/Excel export.
 
+## 🖥️ What I Use
+
+- **OS**: Fedora Linux
+- **Desktop**: KDE Plasma
+- **IDE**: VS Code
+- **Shell**: Zsh
+- **Terminal**: WezTerm
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,kotlin,cs,react,nextjs,tailwind,nodejs,express,fastify,electron,dotnet,mongodb,sqlite,mysql,linux,neovim,git&perline=9&theme=dark">
-  <img src="https://skillicons.dev/icons?i=ts,js,kotlin,cs,react,nextjs,tailwind,nodejs,express,fastify,electron,dotnet,mongodb,sqlite,mysql,linux,neovim,git&perline=9&theme=light" alt="TypeScript, JavaScript, Kotlin, C#, React, Next.js, Tailwind CSS, Node.js, Express, Fastify, Electron, .NET, MongoDB, SQLite, MySQL, Linux, Neovim, Git" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Ckotlin%2Ccs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cexpress%2Cfastify%2Celectron%2Cdotnet%2Cmongodb%2Csqlite%2Cmysql%2Clinux%2Cvscode%2Cneovim%2Cgit&perline=10&theme=dark">
+  <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Ckotlin%2Ccs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cexpress%2Cfastify%2Celectron%2Cdotnet%2Cmongodb%2Csqlite%2Cmysql%2Clinux%2Cvscode%2Cneovim%2Cgit&perline=10&theme=light" alt="TypeScript, JavaScript, Kotlin, C#, React, Next.js, Tailwind CSS, Node.js, Express, Fastify, Electron, .NET, MongoDB, SQLite, MySQL, Linux, VS Code, Neovim, Git" />
 </picture>
 
 ---
