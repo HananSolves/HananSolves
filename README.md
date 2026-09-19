@@ -1,42 +1,41 @@
-# 👋 Hi, I'm Hanan
+<div align="center">
 
-🚀 **Full Stack Developer**  
-I’m passionate about crafting scalable, user-focused web applications using modern technologies. With expertise in both frontend and backend development, I enjoy solving complex problems with clean, maintainable code. I’m also enthusiastic about exploring AI-driven solutions and contributing to open-source projects.
+# Hi, I'm Hanan 👋
 
-<a href="https://github.com/HananSolves/HananSolves/raw/main/Resume/Hanan%27s%20Resume.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/View%20Resume-1E90FF?style=for-the-badge" alt="View Resume" />
-</a>
+**Full-stack developer** building modern, user-focused software across web, desktop and mobile, with a keen interest in AI.
 
-## 🔧 Skills
+[![Email](https://img.shields.io/badge/Email-hanandevelops%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanandevelops@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hanan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hanan-arshad/)
 
-- **Frontend**: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS  
-- **Backend**: Node.js, Express.js  
-- **Databases**: MongoDB, MySQL  
-- **Tools & Platforms**: Git, GitHub, Linux, VS Code, Vim, NeoVim
+</div>
 
-## 💻 Featured Projects
+## 🚀 Featured: [Rehnuma](https://github.com/HananSolves/rehnuma)
 
-- **[TalentTap](https://github.com/HananSolves/TalentTap)**: A web platform designed to connect recruiters with top talent. Built with MERN stack (MongoDB, Express.js, React.js, Node.js).
+[![Latest release](https://img.shields.io/github/v/release/HananSolves/rehnuma?label=latest%20release&color=blue)](https://github.com/HananSolves/rehnuma/releases/latest)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-informational)
 
-## 📫 Connect with Me
+Point-of-sale and business management for small shops. It runs on your own network with no internet needed, and covers sales, inventory, customers, suppliers, payroll and reports, with an encrypted database and optional cloud sync.
 
-- **Email**: [hanandevelops@gmail.com](mailto:hanandevelops@gmail.com)  
-- **LinkedIn**: [Muhammad Hanan](https://www.linkedin.com/in/muhammad-hanan-arshad/)
+**Electron · React · TypeScript · Fastify · SQLite** · [⬇ Download](https://github.com/HananSolves/rehnuma/releases/latest)
 
-## 🧰 Tools & Technologies
+## 💻 More Projects
 
-<p align="center">
-  <img style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40" height="40"/>
-  <img style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40" height="40"/>
-  <img style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="40" height="40"/>
-  <img style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" width="40" height="40"/>
-  <img style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="40" height="40"/>
-  <img style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="40" height="40"/>
-  <img style="display: inline-block;" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" title="Express.js" height="40"/>
-  <img style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="40" height="40"/>
-  <img style="display: inline-block;" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" title="MySQL" height="40"/>
-  <img style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
-  <img style="display: inline-block;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" title="GitHub" width="40" height="40"/>
-  <img style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/>
-  <img style="display: inline-block;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VSCode" width="40" height="40"/>
-</p>
+- **[LibreFocus](https://github.com/hammadbawara/LibreFocus)**: open-source Android screen-time app (Kotlin, Jetpack Compose) that helps build healthier digital habits. I contributed its AI chatbot.
+- **[TalentTap](https://github.com/HananSolves/TalentTap)**: MERN job platform for employers and job seekers, with JWT auth and proposal management.
+- **[AMS](https://github.com/HananSolves/AMS)**: ASP.NET Core attendance system with Admin, Teacher and Student dashboards and PDF/Excel export.
+
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,kotlin,cs,react,nextjs,tailwind,nodejs,express,fastify,electron,dotnet,mongodb,sqlite,mysql,linux,neovim,git&perline=9&theme=dark">
+  <img src="https://skillicons.dev/icons?i=ts,js,kotlin,cs,react,nextjs,tailwind,nodejs,express,fastify,electron,dotnet,mongodb,sqlite,mysql,linux,neovim,git&perline=9&theme=light" alt="TypeScript, JavaScript, Kotlin, C#, React, Next.js, Tailwind CSS, Node.js, Express, Fastify, Electron, .NET, MongoDB, SQLite, MySQL, Linux, Neovim, Git" />
+</picture>
+
+---
+
+📫 Open to interesting projects and collaborations. Say hello!
+
+</div>
